@@ -1,3 +1,3 @@
-# codeaplpha_project
+# practice
 <br>
 this is my first page of github
